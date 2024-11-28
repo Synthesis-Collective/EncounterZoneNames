@@ -29,7 +29,7 @@ In vanilla Skyrim, the encounter zone for Embershard Mine has a *minimum* level 
 ### So what? I love one-shotting bandits!
 This isn't such a big deal with low-level dungeons like Embershard, but take another location, Forelhost, for example. In vanilla, this location's encounter zone has a minimum level of **24** and no maximum, meaning enemies will scale with you forever past level 24.
 
-Let's say you, sweet Dragonborn, are level 5. You finished all the Riverwood claw business and you're really excited to join the Thieves' Guild so you head towards Riften, but you decide to do a couple dungeons in the area first. You happen to stumble upon Forelhost, yet another Nordic ruin with no indication that it'll be anything more difficult than the billion Draugr in Bleak Falls Barrow. But when you enter you find that *these* Draugr just keep kicking your a\*s for no reason, which is ** REALLY F\*\*\*ING FRUSTRATING AAAAAA HOW WERE YOU SUPPOSED TO KNOW THIS WOULD HAPPEN??!**
+Let's say you, sweet Dragonborn, are level 5. You finished all the Riverwood claw business and you're really excited to join the Thieves' Guild so you head towards Riften, but you decide to do a couple dungeons in the area first. You happen to stumble upon Forelhost, yet another Nordic ruin with no indication that it'll be anything more difficult than the billion Draugr in Bleak Falls Barrow. But when you enter you find that *these* Draugr just keep kicking your a\*s for no reason, which is **REALLY F\*\*\*ING FRUSTRATING AAAAAA HOW WERE YOU SUPPOSED TO KNOW THIS WOULD HAPPEN??!**
 
 Wouldn't it be nice to at least get a *warning* or something?
 
